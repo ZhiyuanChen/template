@@ -6,7 +6,7 @@ requires = [
 ]
 
 [project]
-name = "Template"
+name = "template"
 description = "Description"
 readme = "README.md"
 keywords = [

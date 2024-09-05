@@ -100,20 +100,20 @@ Like many businesses, we also collect information through cookies and similar te
 The information we collect includes:
 
 - **Identifiers.**
-    Identifier is a device and browser-specific unique random string that we generate when you use our Service.
-    This identifier is stored in a cookie on your device, allowing us to identify you across multiple sessions and when you return to our Service.
+  Identifier is a device and browser-specific unique random string that we generate when you use our Service.
+  This identifier is stored in a cookie on your device, allowing us to identify you across multiple sessions and when you return to our Service.
   You can delete this cookie at any time by clearing your browser's cache.
 - **Log and Usage Data.**
-    Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services and which we record in log files.
-    Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings, and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called 'crash dumps') and hardware settings).
+  Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services and which we record in log files.
+  Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings, and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called 'crash dumps') and hardware settings).
 - **Device Data.**
-    We collect device data such as information about your computer, phone, tablet, or other devices you use to access the Services.
-    Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet Service Provider and/or mobile carrier, operating system, and system configuration information.
+  We collect device data such as information about your computer, phone, tablet, or other devices you use to access the Services.
+  Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet Service Provider and/or mobile carrier, operating system, and system configuration information.
 - **Location Data.**
-    We collect location data such as information about your device's location, which can be either precise or imprecise.
-    How much information we collect depends on the type and settings of the device you use to access the Services.
-    For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address).
-    You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your location settings on your device.
+  We collect location data such as information about your device's location, which can be either precise or imprecise.
+  How much information we collect depends on the type and settings of the device you use to access the Services.
+  For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address).
+  You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your location settings on your device.
 
 ### Categories of Personal Information We Collect
 
@@ -157,11 +157,11 @@ We will use and retain the collected personal information as needed to provide y
 We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
 
 - **To protect our Services.**
-    We may process your information as part of our efforts to keep our Services safe and secure, including fraud monitoring and prevention.
+  We may process your information as part of our efforts to keep our Services safe and secure, including fraud monitoring and prevention.
 - **To identify user trends.**
-    We may process information about how you use our Services to better understand how they are being used so we can improve them.
+  We may process information about how you use our Services to better understand how they are being used so we can improve them.
 - **To save or protect an individual's vital interest.**
-    We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
+  We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
 
 ## 3. What legal basis do we have for processing your information?
 
@@ -173,18 +173,18 @@ The General Data Protection Regulation (GDPR) and UK GDPR require us to explain 
 As such, we may rely on the following legal bases to process your personal information:
 
 - **Consent.**
-    We may process your personal information if you have given us specific consent to use your personal information for a specific purpose.
-    You have the right to withdraw your consent at any time.
-    Learn more about [withdrawing your consents]().
+  We may process your personal information if you have given us specific consent to use your personal information for a specific purpose.
+  You have the right to withdraw your consent at any time.
+  Learn more about [withdrawing your consents]().
 - **Legitimate Interests.**
-    We may process your information when we believe it is reasonably necessary to achieve our legitimate business interests and those interests do not outweigh your interests and fundamental rights and freedoms.
-    For example, we may process your personal information for some of the purposes described in order to:
-    - Analyse how our Services are used so we can improve them to engage and retain users
-    - Diagnose problems and/or prevent fraudulent activities
+  We may process your information when we believe it is reasonably necessary to achieve our legitimate business interests and those interests do not outweigh your interests and fundamental rights and freedoms.
+  For example, we may process your personal information for some of the purposes described in order to:
+  - Analyse how our Services are used so we can improve them to engage and retain users
+  - Diagnose problems and/or prevent fraudulent activities
 - **Legal Obligations.**
-    We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.
+  We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.
 - **Vital Interests.**
-    We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.
+  We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.
 
 !!! info "Consent to Processing in Canada"
 
@@ -221,29 +221,29 @@ They also commit to protect the data they hold on our behalf and to retain it fo
 The third parties we may share personal information with are as follows:
 
 - **Advertising, Direct Marketing, and Lead Generation**
-    - Google AdSense
+  - Google AdSense
 - **Cloud Computing Services**
-    - Microsoft Azure
-    - Amazon Web Services (AWS)
-    - Google Cloud Platform (GCP)
+  - Microsoft Azure
+  - Amazon Web Services (AWS)
+  - Google Cloud Platform (GCP)
 - **Communications and Content Delivery Network (CDN) Services**
-    - Cloudflare
+  - Cloudflare
 - **Content Optimisation**
-    - Google Site Search
-    - Google Fonts
+  - Google Site Search
+  - Google Fonts
 - **Functionality and Infrastructure Optimisation**
-    - GitHub Pages
+  - GitHub Pages
 - **User Commenting and Forums**
-    - Disqus
-    - GitHub Issues
-    - GitHub Discussions
+  - Disqus
+  - GitHub Issues
+  - GitHub Discussions
 - **Web and Mobile Analytics**
-    - Google Analytics
+  - Google Analytics
 
 We also may need to share your personal information in the following situations:
 
 - **Business Transfers.**
-    We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+  We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
 
 !!! info "We have disclosed the following categories of personal information for a business purpose in the past twelve (12) months:"
 
@@ -321,25 +321,25 @@ However, these rights are not absolute, and in certain cases, we may decline you
 These rights include:
 
 - **Right to know**
-    whether or not we are processing your personal data
+  whether or not we are processing your personal data
 - **Right to access**
-    your personal data
+  your personal data
 - **Right to correct**
-    inaccuracies in your personal data
+  inaccuracies in your personal data
 - **Right to request**
-    the deletion of your personal data
+  the deletion of your personal data
 - **Right to obtain a copy**
-    of the personal data you previously shared with us
+  of the personal data you previously shared with us
 - **Right to non-discrimination**
-    against you for exercising your rights
+  against you for exercising your rights
 - **Right to opt-out**
-    - of the processing of your personal data if it is used for targeted advertising (or sharing as defined under applicable laws), the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ('profiling') concerning you
-    - of the collection of sensitive data and personal data collected through the operation of a voice or facial recognition feature
+  - of the processing of your personal data if it is used for targeted advertising (or sharing as defined under applicable laws), the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ('profiling') concerning you
+  - of the collection of sensitive data and personal data collected through the operation of a voice or facial recognition feature
 - **Right to obtain**
-    - a list of the categories of third parties to which we have disclosed personal data
-    - a list of specific third parties to which we have disclosed personal data
+  - a list of the categories of third parties to which we have disclosed personal data
+  - a list of specific third parties to which we have disclosed personal data
 - **Right to limit**
-    use and disclosure of sensitive personal data
+  use and disclosure of sensitive personal data
 
 ### How to exercise your rights
 
