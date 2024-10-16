@@ -16,12 +16,12 @@ keywords = [
   "Protein",
   "RNA",
 ]
-license = {file = "LICENSE"}
+license = { file = "LICENSE" }
 maintainers = [
-    {name = "Zhiyuan Chen", email = "this@zyc.ai"},
+  { name = "Zhiyuan Chen", email = "this@zyc.ai" },
 ]
 authors = [
-    {name = "Zhiyuan Chen", email = "this@zyc.ai"},
+  { name = "Zhiyuan Chen", email = "this@zyc.ai" },
 ]
 requires-python = ">=3.7"
 classifiers = [
@@ -38,6 +38,7 @@ classifiers = [
   "Programming Language :: Python :: 3.10",
   "Programming Language :: Python :: 3.11",
   "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
   "Topic :: Scientific/Engineering :: Artificial Intelligence",
 ]
 dynamic = [
@@ -46,13 +47,12 @@ dynamic = [
 dependencies = [
   "chanfig",
 ]
-[project.urls]
-documentation = "https://template.danling.org"
-homepage = "https://template.danling.org"
-repository = "https://github.com/ZhiyuanChen/template"
+urls.documentation = "https://template.danling.org"
+urls.homepage = "https://template.danling.org"
+urls.repository = "https://github.com/ZhiyuanChen/template"
 
 [tool.setuptools]
-packages = ["template"]
+packages = [ "template" ]
 
 [tool.setuptools_scm]
 write_to = "template/_version.py"
@@ -87,15 +87,15 @@ fail-under = 9.8
 [tool.pytest.ini_options]
 addopts = "--doctest-modules --cov"
 markers = [
-    "lfs: tests that involve large file handling and should be excluded from CI"
+  "lfs: tests that involve large file handling and should be excluded from CI",
 ]
 
 [tool.coverage.run]
 branch = true
-include = ["template/**"]
+include = [ "template/**" ]
 
 [tool.coverage.paths]
-source = ["template"]
+source = [ "template" ]
 
 [tool.coverage.xml]
 output = "coverage.xml"
