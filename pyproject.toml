@@ -68,45 +68,31 @@ profile = "black"
 [tool.flake8]
 max-line-length = 120
 
-[tool.pylint.format]
-max-line-length = 120
-
-[tool.pylint.messages_control]
-disable = """
+[tool.pylint]
+format.max-line-length = 120
+main.fail-under = 9.8
+messages_control.disable = """
   E0012,
   E0401,
   R0201,
   R0801,
 """
+reports.output-format = "colorized"
 
-[tool.pylint.reports]
-output-format = "colorized"
-
-[tool.pylint.main]
-fail-under = 9.8
-
-[tool.pytest.ini_options]
-addopts = "--doctest-modules --cov"
-markers = [
+[tool.pytest]
+ini_options.addopts = "--doctest-modules --cov"
+ini_options.markers = [
   "lfs: tests that involve large file handling and should be excluded from CI",
 ]
 
-[tool.coverage.run]
-branch = true
-include = [ "template/**" ]
-
-[tool.coverage.paths]
-source = [ "template" ]
-
-[tool.coverage.xml]
-output = "coverage.xml"
-
-[tool.coverage.json]
-output = "coverage.json"
-
-[tool.coverage.report]
-show_missing = true
-fail_under = 64
+[tool.coverage]
+run.branch = true
+run.include = [ "template/**" ]
+paths.source = [ "template" ]
+report.fail_under = 64
+report.show_missing = true
+json.output = "coverage.json"
+xml.output = "coverage.xml"
 
 [tool.mypy]
 ignore_missing_imports = true
