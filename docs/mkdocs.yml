@@ -34,7 +34,7 @@ theme:
         icon: material/brightness-7
         name: Switch to dark mode
   logo: "assets/images/logo.png"
-  favicon: "assets/images/logo.ico"
+  favicon: "assets/images/favicon.ico"
   features:
     - announce.dismiss
     # - content.action.edit
@@ -62,7 +62,9 @@ theme:
     - search.suggest
     - toc.follow
     # - toc.integrate
-  font: false
+  font:
+    text: Noto Sans
+    code: Noto Sans Mono
 
 extra:
   # analytics:
@@ -149,7 +151,7 @@ plugins:
             separate_signature: true
             show_signature_annotations: true
             signature_crossrefs: true
-          import:
+          inventories:
             - https://docs.python.org/3/objects.inv
             - https://pytorch.org/docs/stable/objects.inv
             - https://huggingface.co/docs/transformers/master/en/objects.inv
