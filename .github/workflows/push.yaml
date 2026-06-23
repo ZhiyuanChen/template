@@ -27,7 +27,7 @@ jobs:
       - name: Install module
         run: pip install -e .
       - name: pytest
-        run: pytest -m "not lfs" --cov=materialx --cov-report=xml --cov-report=html .
+        run: pytest -m "not lfs" --cov=template --cov-report=xml --cov-report=html .
       - name: Upload coverage report for documentation
         uses: actions/upload-artifact@v4
         with:
@@ -95,9 +95,9 @@ jobs:
           python-version: 3.x
           cache: "pip"
       - name: Install dependencies for building
-        run: pip install wheel setuptools_scm
+        run: pip install build setuptools_scm
       - name: build package
-        run: python setup.py sdist bdist_wheel
+        run: python -m build
       - name: create release
         uses: "marvinpinto/action-automatic-releases@latest"
         with:
@@ -122,9 +122,9 @@ jobs:
           python-version: 3.x
           cache: "pip"
       - name: Install dependencies for building
-        run: pip install wheel setuptools_scm
+        run: pip install build setuptools_scm
       - name: build package
-        run: python setup.py sdist bdist_wheel
+        run: python -m build
       - name: create release
         uses: "marvinpinto/action-automatic-releases@latest"
         with:
